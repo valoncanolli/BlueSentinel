@@ -1,0 +1,6 @@
+{
+  "openai": { "api_key": "YOUR_OPENAI_KEY" },
+  "virustotal": { "api_keys": ["KEY1", "KEY2"] },
+  "abuseipdb": { "api_key": "YOUR_ABUSEIPDB_KEY" },
+  "shodan": { "api_key": "YOUR_SHODAN_KEY" }
+}
